@@ -76,7 +76,7 @@ Puzzle and solution saved to 'sudoku_output.txt'
 
 ## Video
 
-[Video on YouTube]()
+[Video on YouTube](https://youtu.be/wtPGRVgTBvQ)
 
 ## Explaination:
 
